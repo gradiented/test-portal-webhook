@@ -9,3 +9,4 @@ And another...
 
 
 [Fake Link](http://fake.org/)
+[Sibling section link](sibling.md#heading)
