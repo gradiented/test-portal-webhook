@@ -10,3 +10,4 @@ And another...
 
 [Fake Link](http://fake.org/)
 [Sibling section link](sibling.md#heading)
+[Sibling section link relative](./sibling.md#heading)
