@@ -7,12 +7,11 @@ And another...
 And another...
 And another...
 
-
 [Fake Link](http://fake.org/)
 [Sibling section link](sibling.md#heading)
 [Sibling section link relative](./sibling.md#heading)
 
 [Deep](./reference/awesome/linked-page.md#deep-linked-page)
 
-["Breakout" URL](../index.md)
+[Breakout URL](../index.md)
 [404](./reference/pizza.md)
