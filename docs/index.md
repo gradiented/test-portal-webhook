@@ -12,4 +12,4 @@ And another...
 [Sibling section link](sibling.md#heading)
 [Sibling section link relative](./sibling.md#heading)
 
-[Deep](./reference//awesome/linked-page.md#deep-linked-page)
+[Deep](./reference/awesome/linked-page.md#deep-linked-page)
