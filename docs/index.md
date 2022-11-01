@@ -13,3 +13,6 @@ And another...
 [Sibling section link relative](./sibling.md#heading)
 
 [Deep](./reference/awesome/linked-page.md#deep-linked-page)
+
+["Breakout" URL](../index.md)
+[404](./reference/pizza.md)
