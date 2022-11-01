@@ -13,5 +13,5 @@ And another...
 
 [Deep](./reference/awesome/linked-page.md#deep-linked-page)
 
-[Breakout URL](../index.md)
+[Breakout URL](../pizza.md)
 [404](./reference/pizza.md)
