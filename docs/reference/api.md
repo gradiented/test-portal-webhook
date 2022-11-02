@@ -8,5 +8,3 @@ We should link here
 
 [Relative to root](../index.md)
 [Deep Breakout URL](../../../index.md)
-
-🚀
